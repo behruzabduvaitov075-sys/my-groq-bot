@@ -1,0 +1,5 @@
+groq
+python-telegram-bot
+flask
+gunicorn
+asyncio
